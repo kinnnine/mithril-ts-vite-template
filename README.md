@@ -4,7 +4,7 @@ This is a plain and simple Mithril project, configured with TypeScript and Vite.
 
 ## Quick start
 
-By using [degit](https://github.com/Rich-Harris/degit), you can scaffold a new project by using this template.
+By using [degit](https://github.com/Rich-Harris/degit), you can scaffold a new project using this template.
 
 `npx degit kinnnine/mithril-ts-vite-template my-app`
 
