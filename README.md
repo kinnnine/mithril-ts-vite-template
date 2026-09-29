@@ -8,7 +8,7 @@ By using [degit](https://github.com/Rich-Harris/degit), you can scaffold a new p
 
 `npx degit kinnnine/mithril-ts-vite-template my-app`
 
-Finally, install required packages using by your package manager of choice, it can be `npm`, `pnpm` or even `bun`.
+Finally, install required packages using your package manager of choice, it can be `npm`, `pnpm` or even `bun`.
 
 ## Recommended links
 
